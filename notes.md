@@ -39,7 +39,7 @@ Dog Years
  📃- todo
  
 ## Test cases
-1. 🚧 humanYears = 1 output: catYears = 15 dogYears = 15
+1. ✔ humanYears = 1 output: catYears = 15 dogYears = 15
 1. 📃 humanYears = 2 output: catYears = 24 dogYears = 24
 1. 📃 humanYears = 10 output: catYears = 56 dogYears = 64
 
@@ -49,11 +49,12 @@ Dog Years
         * ✔ plan first pomodoro activities
         * ✔ Create note.md and add general information 
         * ✔ create test.js and write first test case
-        * 📃 cover the first test case with implementation
+        * ✔ cover the first test case with implementation
         * 📃 check for possible refactoring
     * Commit log:
         * pomodoro plan + notes.md
         * RED
+        * GREEN
     * Comment: 
 1. Pomodoro session:
     * Plan:  
