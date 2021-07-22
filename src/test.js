@@ -7,6 +7,6 @@ describe('Test Cat years, Dog years functions', () => {
   });
   it('Two years old human', () => {
     const catDogYears = new CatDogYears();
-    expect(catDogYears.humanYearsCatYearsDogYears(2)).toStrictEqual([1,24,24]);
+    expect(catDogYears.humanYearsCatYearsDogYears(2)).toStrictEqual([2,24,24]);
   });
 });

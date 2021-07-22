@@ -40,7 +40,7 @@ Dog Years
  
 ## Test cases
 1. ✔ humanYears = 1 output: catYears = 15 dogYears = 15
-1. 🚧 humanYears = 2 output: catYears = 24 dogYears = 24
+1. ✔ humanYears = 2 output: catYears = 24 dogYears = 24
 1. 📃 humanYears = 10 output: catYears = 56 dogYears = 64
 
 ## Pomodoro
@@ -60,7 +60,7 @@ Dog Years
 1. Pomodoro session:
     * Plan:  
         ✔ 📃 create next test case
-        * 📃 cover next test case with implementation
+        ✔ 📃 cover next test case with implementation
         * 📃 check for possible refactoring
         * 📃 create next test case
         * 📃 cover next test case with implementation
