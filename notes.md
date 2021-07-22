@@ -61,10 +61,12 @@ Dog Years
     * Plan:  
         ✔ 📃 create next test case
         ✔ 📃 cover next test case with implementation
-        * 📃 check for possible refactoring
+        ✔ 📃 check for possible refactoring
         * 📃 create next test case
         * 📃 cover next test case with implementation
         * 📃 check for possible refactoring
     * Commit log:
         * RED
+        * GREEN
+        * Refactor
     * Comment: 

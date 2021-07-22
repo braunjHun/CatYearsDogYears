@@ -4,7 +4,7 @@ class CatDogYears {
         if (n == 2) {
             return [n,24,24];
         }
-        return [1,15,15];
+        return [n,15,15];
     }
 
 }
